@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BKhawlani
+- 👀 I’m interested in Programming / AI/ Cyber Security/Technology/Hacking
+- 🌱 I’m currently learning Computer Engineering 
+- 📫 How to reach me  : Insta : @12.bmh \ FB:@bshara5
+- 😄 Pronouns: ENG
