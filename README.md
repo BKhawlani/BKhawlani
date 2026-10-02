@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bashar Alkhawlani
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineering   
 🤖 AI • Computer Vision • Machine Learning  
 📍 Turkey
 
