@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-I am a Computer Engineering student with a strong interest in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**.  
+I am a Computer Engineer  with a strong interest in **Artificial Intelligence**, **Computer Vision**, and **Machine Learning**.  
 I enjoy building **end-to-end systems** that combine software, AI models, and real-world hardware integration.
 
 My focus is on developing **practical, low-cost, and scalable intelligent systems**, especially in areas such as real-time vision, embedded systems, and applied machine learning.
